@@ -1,3 +1,6 @@
+#kevinvaleriwijaya
+#41823010035
+
 import mysql.connector
 import logging
 
@@ -89,7 +92,7 @@ class HTTPException(Exception):
 if __name__ == "__main__":
     buku1 = Buku(
         judul="Jangan melawan mama kamu ya adik-adik",
-        penulis="Mikha Naftail",
+        penulis="Kevin Valeri Wijaya",
         penerbit="Nerbitin Sendiri",
         tahun_terbit=1975,
         konten="Chapter 1: Menjadi Anak Baik, Chapter 2: Cara Membahagiakan Mama, Chapter 3: Jangan Melawan Mama 4: Anak durhaka 5: Dikutuk nanti",
